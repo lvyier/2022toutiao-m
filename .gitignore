@@ -24,3 +24,4 @@ pnpm-debug.log*
 #忽略文件
 ce.vue
 ceshi.vue
+hello.vue
